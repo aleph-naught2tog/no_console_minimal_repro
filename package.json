@@ -10,7 +10,7 @@
     "typescript": "^3.5.1"
   },
   "devDependencies": {
-    "expo-cli": "^2.19.4"
+    "expo-cli": "^6.3.12"
   },
   "private": true
 }
